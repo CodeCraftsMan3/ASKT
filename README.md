@@ -35,4 +35,4 @@ Start tool: python3 askt.py
 This program scans the site for vulnerabilities(SQL,XXS), finger admin panel and found site dirs. Perfect for ScriptKiddies😃 !!
 
 ### Stargazers
-[![Stargazers repo roster for @r0cketp0wer/ASKT](https://reporoster.com/stars/r0cketp0wer/ASKT)](https://github.com/r0cketp0wer/ASKT)
+[![Stargazers repo roster for @r0cketp0wer/ASKT](http://reporoster.com/stars/r0cketp0wer/ASKT)](https://github.com/r0cketp0wer/ASKT)
