@@ -1,5 +1,7 @@
 # Auto-Script Kiddies Tool
 
+![ASKT On Parrot Security OS](ASKT.png)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.0.2-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/r0cketp0wer/ASKT?style=for-the-badge">
